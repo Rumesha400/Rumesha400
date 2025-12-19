@@ -35,11 +35,11 @@ Hi, I’m **Rumesha Ansari** — a **Software Developer** passionate about build
 ---
 <!--START_GH_STATS-->
 ### 📊 Complete GitHub Statistics (Including Private Repos)
-- **Total Pull Requests**: **LOADING**
-- **Public Repositories**: **LOADING**
-- **Private Repositories**: **LOADING**
-- **Total Commits**: **LOADING**
-- **Last Updated**: **LOADING**
+- **Total Pull Requests**: **33**
+- **Public Repositories**: **34**
+- **Private Repositories**: **3**
+- **Total Commits**: **134**
+- **Last Updated**: **2025-12-19 20:47 IST**
 <!--END_GH_STATS-->
 
 
