@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rumesha400&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Rumesha400&theme=dark&hide_border=true" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Rumesha400&show_icons=true&theme=dark&hide_border=true" />
 </div>
