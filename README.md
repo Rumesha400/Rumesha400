@@ -6,13 +6,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=2000&color=8B5CF6&center=true&vCenter=true&width=900&height=30&lines=Software+Developer+%7C+Tech+Enthusiast;Python+%7C+Next.js+%7C+Node.js+%7C+Django;Building+scalable+and+user-focused+applications" alt="Typing SVG" />
 </div>
 
-<br>
+<!-- <br> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.vercel.app/?user=Rumesha400&theme=dark&hide_border=true" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Rumesha400&show_icons=true&theme=dark&hide_border=true" />
-</div>
+</div> -->
 
 <br>
 
