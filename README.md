@@ -31,6 +31,7 @@ Hi, I’m **Rumesha Ansari** — a **Software Developer** passionate about build
 - 🏗️ Built **full-stack production-ready projects**
 - 🔍 Interested in **backend systems, performance & architecture**
 - 🌱 Constantly learning and improving with real-world projects
+- 📩 Reach me out at **rumesha0204@gmail.com**
 
 ---
 <!--START_GH_STATS-->
